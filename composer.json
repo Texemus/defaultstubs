@@ -1,0 +1,19 @@
+{
+    "name": "texemus/defaultstubs",
+    "description": "A Laravel package to get default stubs from",
+    "type": "library",
+    "license": "MIT",
+    "homepage" : "http://texemus.com",
+    "authors": [
+        {
+            "name": "Chilion Snoek",
+            "email": "c.snoek@texemus.com"
+        }
+    ],
+    
+    "autoload": {
+      "psr-4": {
+        "Texemus\\": "src/"
+      }
+    }
+}
